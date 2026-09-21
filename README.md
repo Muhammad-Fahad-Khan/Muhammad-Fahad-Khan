@@ -2,6 +2,11 @@
   PASTE THIS INTO THE REPO NAMED EXACTLY:  Muhammad-Fahad-Khan
   (that is the empty one — it is the ONLY repo that shows on your profile)
 -->
+<!--
+  PASTE THIS INTO THE REPO NAMED EXACTLY:  Muhammad-Fahad-Khan
+  (the empty one — it is the ONLY repo that shows on your profile)
+  Replace 92XXXXXXXXXX in the WhatsApp link with your real number.
+-->
 
 <div align="center">
 
@@ -11,8 +16,13 @@
 
 <a href="https://the-mfk.tech"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://resoviq.com"><img src="https://img.shields.io/badge/CTO_%40_Resoviq-10B981?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muhammad-fahad-khan-mfk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mfahadkhan.me@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-fahad-khan-mfk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDJ2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTVWOWgzLjU3djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B&logoColor=white" /></a>
+
+<br/>
+
+<a href="mailto:mfahadkhan.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mfahadkhan.me@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA0SDRhMiAyIDAgMCAwLTIgMnYxMmEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJWNmEyIDIgMCAwIDAtMi0yem0wIDQtOCA1LTgtNVY2bDggNSA4LTV6Ii8%2BPC9zdmc%2B&logoColor=white" /></a>
+<a href="https://wa.me/923125534724"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/>
 
@@ -24,12 +34,12 @@
 
 ## 👋 About Me
 
-I'm **Muhammad Fahad Khan (MFK)** - A Software Engineer who builds full-stack web apps and runs the servers they live on. I work across the **PERN** and **.NET** stacks on the software side and manage **Linux-based HPC (High-Performance Computing) clusters** on the infrastructure side.
+I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack web apps and runs the servers they live on. I work across the **PERN** and **.NET** stacks on the software side, and manage **Linux-based HPC (High-Performance Computing) clusters** on the infrastructure side.
 
-- 🛰️ **HPC Cluster Administrator** @ GreenAi - NASTP, Rawalpindi.
-- 🚀 **CTO & Co-founder** @ [Resoviq](https://resoviq.com) - Software & Business Services Agency.
-- 🧠 Interested in **AI/ML workloads, automation and scalable backend systems**.
-- 🎓 BS Software Engineering - NUML, Rawalpindi.
+- 🛰️ **HPC Cluster Administrator** @ GreenAi - NASTP, Rawalpindi
+- 🚀 **CTO & Co-founder** @ [Resoviq](https://resoviq.com) - Software & Business Services Agency
+- 🧠 Interested in **AI/ML workloads, automation and scalable backend systems**
+- 🎓 BS Software Engineering - NUML, Rawalpindi
 - 🌐 Portfolio → **[the-mfk.tech](https://the-mfk.tech)**
 
 ---
@@ -125,3 +135,4 @@ I'm **Muhammad Fahad Khan (MFK)** - A Software Engineer who builds full-stack we
 <i>"Efficient, reliable software -- from the code to the cluster."</i>
 
 </div>
+

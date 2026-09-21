@@ -12,8 +12,8 @@
 
 <a href="https://the-mfk.tech"><img src="https://img.shields.io/badge/Portfolio-the--mfk.tech-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://resoviq.com"><img src="https://img.shields.io/badge/CTO-Resoviq-0A0A0A?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-fahad-khan-mfk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mfahadkhan.me@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
 
@@ -25,12 +25,12 @@
 
 ## 👋 About Me
 
-I'm **Muhammad Fahad Khan (MFK)** — a Software Engineer who builds full-stack web apps and runs the servers they live on. I work across the **PERN** and **.NET** stacks on the software side, and manage **Linux-based HPC (High-Performance Computing) clusters** on the infrastructure side.
+I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack web apps and runs the servers they live on. I work across the **PERN** and **.NET** stacks on the software side, and manage **Linux-based HPC (High-Performance Computing) clusters** on the infrastructure side.
 
-- 🛰️ **HPC Cluster Administrator** @ GreenAi — NASTP, Rawalpindi
-- 🚀 **CTO & Co-founder** @ [Resoviq](https://resoviq.com) — software & business services agency
-- 🧠 Interested in **AI/ML workloads, automation, and scalable backend systems**
-- 🎓 BS Software Engineering — NUML, Rawalpindi
+- 🛰️ **HPC Cluster Administrator** @ GreenAi - NASTP, Rawalpindi
+- 🚀 **CTO & Co-founder** @ [Resoviq](https://resoviq.com) - Software & Business Services Agency
+- 🧠 Interested in **AI/ML workloads, automation and scalable backend systems**
+- 🎓 BS Software Engineering - NUML, Rawalpindi
 - 🌐 Portfolio → **[the-mfk.tech](https://the-mfk.tech)**
 
 ---
@@ -106,13 +106,14 @@ I'm **Muhammad Fahad Khan (MFK)** — a Software Engineer who builds full-stack 
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
-| **Hand Gesture Recognition** 🏆 | Python, OpenCV, cvzone | Real-time gesture control for mouse, volume & screenshots — *1st place, BSSE Final Year Project* |
+| **Hand Gesture Recognition** 🏆 | Python, OpenCV, cvzone | Real-time gesture control for mouse, volume & screenshots - *1st place, BSSE Final Year Project* |
 | **Resoviq CMS** | PostgreSQL, Express, React, Node (PERN) | Company website + admin panel with role-based access control |
 | **Gym Management System** | ASP.NET Core MVC, SQL Server | Members, memberships, trainers, attendance & payments |
+| **Jewellery Showcase - Imran & Sons** 💎 | Next.js, Express, Prisma, PostgreSQL | Full-stack showcase: customers browse collections & zoomable galleries and enquire on WhatsApp (no public prices); staff manage products, images & content via a secure role-based admin panel |
 | **Jewellery Management System** | ASP.NET Core MVC, SQL Server | Role-based inventory, sales, customers & transactions |
 | **Complaint Management System** | ASP.NET, SQL Server | Multi-project complaints with approval workflow |
 
-> 📌 *Tip: pin your 6 best repos on your profile so these show up as cards.*
+> 📌 *Reminder: pin my 6 best repos.*
 
 ---
 
@@ -124,6 +125,6 @@ I'm **Muhammad Fahad Khan (MFK)** — a Software Engineer who builds full-stack 
 
 <br/><br/>
 
-<i>"Efficient, reliable software — from the code to the cluster."</i>
+<i>"Efficient, reliable software -- from the code to the cluster."</i>
 
 </div>

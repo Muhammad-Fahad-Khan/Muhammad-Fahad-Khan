@@ -1,7 +1,6 @@
 <!--
   PASTE THIS INTO THE REPO NAMED EXACTLY:  Muhammad-Fahad-Khan
   (that is the empty one — it is the ONLY repo that shows on your profile)
-  Username is already filled in. Only thing left: fix the LinkedIn + email links below, or delete them.
 -->
 
 <div align="center">
@@ -10,10 +9,10 @@
 
 <br/>
 
-<a href="https://the-mfk.tech"><img src="https://img.shields.io/badge/Portfolio-the--mfk.tech-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://resoviq.com"><img src="https://img.shields.io/badge/CTO-Resoviq-0A0A0A?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muhammad-fahad-khan-mfk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mfahadkhan.me@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://the-mfk.tech"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://resoviq.com"><img src="https://img.shields.io/badge/CTO_%40_Resoviq-10B981?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-fahad-khan-mfk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mfahadkhan.me@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 
 <br/>
 
@@ -112,8 +111,6 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 | **Jewellery Showcase - Imran & Sons** 💎 | Next.js, Express, Prisma, PostgreSQL | Full-stack showcase: customers browse collections & zoomable galleries and enquire on WhatsApp (no public prices); staff manage products, images & content via a secure role-based admin panel |
 | **Jewellery Management System** | ASP.NET Core MVC, SQL Server | Role-based inventory, sales, customers & transactions |
 | **Complaint Management System** | ASP.NET, SQL Server | Multi-project complaints with approval workflow |
-
-> 📌 *Reminder: pin my 6 best repos.*
 
 ---
 

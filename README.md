@@ -36,10 +36,10 @@
 
 I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack web apps and runs the servers they live on. I work across the **PERN** and **.NET** stacks on the software side, and manage **Linux-based HPC (High-Performance Computing) clusters** on the infrastructure side.
 
-- 🛰️ **HPC Cluster Administrator** @ GreenAi - NASTP, Rawalpindi
-- 🚀 **CTO & Co-founder** @ [Resoviq](https://resoviq.com) - Software & Business Services Agency
-- 🧠 Interested in **AI/ML workloads, automation and scalable backend systems**
-- 🎓 BS Software Engineering - NUML, Rawalpindi
+- 🛰️ **HPC Cluster Administrator** @ GreenAi - NASTP, Rawalpindi.
+- 🚀 **CTO & Co-founder** @ [Resoviq](https://resoviq.com) - Software & Business Services Agency.
+- 🧠 Interested in **AI/ML workloads, automation and scalable backend systems**.
+- 🎓 BS Software Engineering - NUML, Rawalpindi.
 - 🌐 Portfolio → **[the-mfk.tech](https://the-mfk.tech)**
 
 ---
@@ -115,12 +115,12 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
-| **Hand Gesture Recognition** 🏆 | Python, OpenCV, cvzone | Real-time gesture control for mouse, volume & screenshots - *1st place, BSSE Final Year Project* |
-| **Resoviq CMS** | PostgreSQL, Express, React, Node (PERN) | Company website + admin panel with role-based access control |
-| **Gym Management System** | ASP.NET Core MVC, SQL Server | Members, memberships, trainers, attendance & payments |
-| **Jewellery Showcase - Imran & Sons** 💎 | Next.js, Express, Prisma, PostgreSQL | Full-stack showcase: customers browse collections & zoomable galleries and enquire on WhatsApp (no public prices); staff manage products, images & content via a secure role-based admin panel |
-| **Jewellery Management System** | ASP.NET Core MVC, SQL Server | Role-based inventory, sales, customers & transactions |
-| **Complaint Management System** | ASP.NET, SQL Server | Multi-project complaints with approval workflow |
+| **Hand Gesture Recognition** 🏆 | Python, OpenCV, cvzone | Real-time gesture control for mouse, volume & screenshots - *1st place, BSSE Final Year Project*. |
+| **Resoviq CMS** | PostgreSQL, Express, React, Node (PERN) | Company website + admin panel with role-based access control. |
+| **Gym Management System** | ASP.NET Core MVC, SQL Server | Members, memberships, trainers, attendance & payments. |
+| **Jewellery Showcase - Imran & Sons** 💎 | Next.js, Express, Prisma, PostgreSQL | Full-stack showcase: customers browse collections & zoomable galleries and enquire on WhatsApp (no public prices); staff manage products, images & content via a secure role-based admin panel. |
+| **Jewellery Management System** | ASP.NET Core MVC, SQL Server | Role-based inventory, sales, customers & transactions. |
+| **Complaint Management System** | ASP.NET, SQL Server | Multi-project complaints with approval workflow. |
 
 ---
 

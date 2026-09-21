@@ -24,7 +24,7 @@
 
 ## 👋 About Me
 
-I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack web apps and runs the servers they live on. I work across the **PERN** and **.NET** stacks on the software side, and manage **Linux-based HPC (High-Performance Computing) clusters** on the infrastructure side.
+I'm **Muhammad Fahad Khan (MFK)** - A Software Engineer who builds full-stack web apps and runs the servers they live on. I work across the **PERN** and **.NET** stacks on the software side and manage **Linux-based HPC (High-Performance Computing) clusters** on the infrastructure side.
 
 - 🛰️ **HPC Cluster Administrator** @ GreenAi - NASTP, Rawalpindi
 - 🚀 **CTO & Co-founder** @ [Resoviq](https://resoviq.com) - Software & Business Services Agency

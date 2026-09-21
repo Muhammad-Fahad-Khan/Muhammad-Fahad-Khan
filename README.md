@@ -1,0 +1,129 @@
+<!--
+  PASTE THIS INTO THE REPO NAMED EXACTLY:  Muhammad-Fahad-Khan
+  (that is the empty one — it is the ONLY repo that shows on your profile)
+  Username is already filled in. Only thing left: fix the LinkedIn + email links below, or delete them.
+-->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Muhammad+Fahad+Khan+(MFK);Full-Stack+Developer+%7C+HPC+Cluster+Admin;CTO+%40+Resoviq;PERN+%26+.NET+%7C+Linux+%2B+DevOps+Infrastructure" alt="Muhammad Fahad Khan" />
+
+<br/>
+
+<a href="https://the-mfk.tech"><img src="https://img.shields.io/badge/Portfolio-the--mfk.tech-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://resoviq.com"><img src="https://img.shields.io/badge/CTO-Resoviq-0A0A0A?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Fahad-Khan&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Muhammad Fahad Khan (MFK)** — a Software Engineer who builds full-stack web apps and runs the servers they live on. I work across the **PERN** and **.NET** stacks on the software side, and manage **Linux-based HPC (High-Performance Computing) clusters** on the infrastructure side.
+
+- 🛰️ **HPC Cluster Administrator** @ GreenAi — NASTP, Rawalpindi
+- 🚀 **CTO & Co-founder** @ [Resoviq](https://resoviq.com) — software & business services agency
+- 🧠 Interested in **AI/ML workloads, automation, and scalable backend systems**
+- 🎓 BS Software Engineering — NUML, Rawalpindi
+- 🌐 Portfolio → **[the-mfk.tech](https://the-mfk.tech)**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases & ORM**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS_%2F_Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Fahad-Khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Fahad-Khan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Muhammad-Fahad-Khan&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Fahad-Khan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| **Hand Gesture Recognition** 🏆 | Python, OpenCV, cvzone | Real-time gesture control for mouse, volume & screenshots — *1st place, BSSE Final Year Project* |
+| **Resoviq CMS** | PostgreSQL, Express, React, Node (PERN) | Company website + admin panel with role-based access control |
+| **Gym Management System** | ASP.NET Core MVC, SQL Server | Members, memberships, trainers, attendance & payments |
+| **Jewellery Management System** | ASP.NET Core MVC, SQL Server | Role-based inventory, sales, customers & transactions |
+| **Complaint Management System** | ASP.NET, SQL Server | Multi-project complaints with approval workflow |
+
+> 📌 *Tip: pin your 6 best repos on your profile so these show up as cards.*
+
+---
+
+<div align="center">
+
+### 💬 Let's build something reliable together.
+
+<a href="https://the-mfk.tech"><img src="https://img.shields.io/badge/Visit_my_Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>"Efficient, reliable software — from the code to the cluster."</i>
+
+</div>

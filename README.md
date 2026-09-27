@@ -109,6 +109,21 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 <img height="180em" src="https://btia.vercel.app/api/top-langs/layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
+
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Live |
+|---------|-------------|------|
+| **Resoviq** | Software company — "Resolve with IQ." Custom web & business solutions. | [resoviq.com](https://www.resoviq.com/) |
+| **Gym Management System** | Full gym ops platform: members, membership plans, automated monthly billing (challan generation), payments & attendance tracking with expiry alerts. | [gym.getresoviq.com](https://gym.getresoviq.com/) |
+| **BTIA** | Web platform for Bahria Town International Academy. | [btia.vercel.app](https://btia.vercel.app/) |
+| **Codemerix** | Portfolio / showcase site. | [codemerix.vercel.app](https://codemerix.vercel.app/) |
+
+</div>
+
 ---
 
 ## 🚀 Featured Projects

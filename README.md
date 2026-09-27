@@ -109,18 +109,44 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 <img height="180em" src="https://btia.vercel.app/api/top-langs/layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
-
-
-## 🚀 Featured Projects
+## 🚀 Live Projects
 
 <div align="center">
 
-| Project | Description | Live |
-|---------|-------------|------|
-| **Resoviq** | Software company — "Resolve with IQ." Custom web & business solutions. | [resoviq.com](https://www.resoviq.com/) |
-| **Gym Management System** | Full gym ops platform: members, membership plans, automated monthly billing (challan generation), payments & attendance tracking with expiry alerts. | [gym.getresoviq.com](https://gym.getresoviq.com/) |
-| **BTIA** | Web platform for Bahria Town International Academy. | [btia.vercel.app](https://btia.vercel.app/) |
-| **Codemerix** | Portfolio / showcase site. | [codemerix.vercel.app](https://codemerix.vercel.app/) |
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.resoviq.com/" target="_blank">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.resoviq.com%2F?w=600&h=375" width="100%" alt="Resoviq"/>
+</a>
+<br/><b>Resoviq</b><br/>
+<sub>Software company — Resolve with IQ.</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://gym.getresoviq.com/" target="_blank">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgym.getresoviq.com%2F?w=600&h=375" width="100%" alt="Gym Management System"/>
+</a>
+<br/><b>Gym Management System</b><br/>
+<sub>Members, billing & attendance platform</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://btia.vercel.app/" target="_blank">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fbtia.vercel.app%2F?w=600&h=375" width="100%" alt="BTIA"/>
+</a>
+<br/><b>BTIA</b><br/>
+<sub>Bahria Town International Academy</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://codemerix.vercel.app/" target="_blank">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fcodemerix.vercel.app%2F?w=600&h=375" width="100%" alt="Codemerix"/>
+</a>
+<br/><b>Codemerix</b><br/>
+<sub>Portfolio / showcase site</sub>
+</td>
+</tr>
+</table>
 
 </div>
 

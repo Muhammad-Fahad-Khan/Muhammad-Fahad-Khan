@@ -135,7 +135,7 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 <img src="https://image.thum.io/get/width/600/fullpage/wait/12/https://www.resoviq.com/?v=2" width="100%" alt="Resoviq"/>
 </a>
 <br/><b>🧠 Resoviq</b><br/>
-<sub>Software company — Resolve with IQ.</sub>
+<sub>Software company - Resolve with IQ.</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://gym.getresoviq.com/" target="_blank">

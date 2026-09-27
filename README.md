@@ -117,14 +117,14 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 <tr>
 <td align="center" width="50%">
 <a href="https://www.resoviq.com/" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.resoviq.com%2F?w=600&h=375" width="100%" alt="Resoviq"/>
+<img src="https://image.thum.io/get/width/600/crop/375/https://www.resoviq.com/" width="100%" alt="Resoviq"/>
 </a>
 <br/><b>Resoviq</b><br/>
 <sub>Software company — Resolve with IQ.</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://gym.getresoviq.com/" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgym.getresoviq.com%2F?w=600&h=375" width="100%" alt="Gym Management System"/>
+<img src="https://image.thum.io/get/width/600/crop/375/https://gym.getresoviq.com/" width="100%" alt="Gym Management System"/>
 </a>
 <br/><b>Gym Management System</b><br/>
 <sub>Members, billing & attendance platform</sub>
@@ -133,14 +133,14 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 <tr>
 <td align="center" width="50%">
 <a href="https://btia.vercel.app/" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fbtia.vercel.app%2F?w=600&h=375" width="100%" alt="BTIA"/>
+<img src="https://image.thum.io/get/width/600/crop/375/https://btia.vercel.app/" width="100%" alt="BTIA"/>
 </a>
 <br/><b>BTIA</b><br/>
 <sub>Bahria Town International Academy</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://codemerix.vercel.app/" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fcodemerix.vercel.app%2F?w=600&h=375" width="100%" alt="Codemerix"/>
+<img src="https://image.thum.io/get/width/600/crop/375/https://codemerix.vercel.app/" width="100%" alt="Codemerix"/>
 </a>
 <br/><b>Codemerix</b><br/>
 <sub>Portfolio / showcase site</sub>

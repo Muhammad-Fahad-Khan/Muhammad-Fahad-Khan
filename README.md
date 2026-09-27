@@ -106,7 +106,7 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 <br/>
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Fahad-Khan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" /> -->
-<img height="180em" src="https://btia.vercel.app/api/top-langs/?username=Muhammad-Fahad-Khan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://btia.vercel.app/api/top-langs/layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---

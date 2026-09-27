@@ -1,16 +1,11 @@
-
-
-
-
-
-
-
-
-
-
+<!--
+  PASTE THIS INTO THE REPO NAMED EXACTLY:  Muhammad-Fahad-Khan
+  (that is the empty one — it is the ONLY repo that shows on your profile)
+-->
 <!--
   PASTE THIS INTO THE REPO NAMED EXACTLY:  Muhammad-Fahad-Khan
   (the empty one — it is the ONLY repo that shows on your profile)
+  Replace 92XXXXXXXXXX in the WhatsApp link with your real number.
 -->
 
 <div align="center">
@@ -110,26 +105,15 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Fahad-Khan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Fahad-Khan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" /> -->
+<img height="180em" src="https://btia.vercel.app/api/top-langs/layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
-
----
 
 ## 🚀 Live Projects
 
 <div align="center">
 
 <table>
-<tr>
-<td align="center" colspan="2">
-<a href="https://the-mfk.tech/" target="_blank">
-<img src="https://image.thum.io/get/width/1200/fullpage/wait/12/https://the-mfk.tech/?v=2" width="100%" alt="MFK Portfolio"/>
-</a>
-<br/><b>🌐 the-mfk.tech — Personal Portfolio</b><br/>
-<sub>My work, projects & experience in one place.</sub>
-</td>
-</tr>
 <tr>
 <td align="center" width="50%">
 <a href="https://www.resoviq.com/" target="_blank">
@@ -166,9 +150,12 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 
 </div>
 
+
+
+
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
@@ -192,4 +179,11 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 <i>"Efficient, reliable software -- from the code to the cluster."</i>
 
 </div>
+
+
+
+
+
+
+
 

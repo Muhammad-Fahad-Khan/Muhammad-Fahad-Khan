@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Muhammad+Fahad+Khan+(MFK);Full-Stack+Developer+%7C+HPC+Cluster+Admin;CTO+%40+Resoviq;PERN+%26+.NET+%7C+Linux+%2B+DevOps+Infrastructure" alt="Muhammad Fahad Khan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Muhammad+Fahad+Khan+(MFK);Full-Stack+Developer+%7C+HPC+Clusters+Admin;CTO+%40+Resoviq;PERN+%26+.NET+%7C+Linux+%2B+DevOps+Infrastructure" alt="Muhammad Fahad Khan" />
 
 <br/>
 
@@ -38,9 +38,9 @@
 
 ## 👋 About Me
 
-I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack web apps and runs the servers they live on. I work across the **PERN** and **.NET** stacks on the software side, and manage **Linux-based HPC (High-Performance Computing) clusters** on the infrastructure side.
+I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack web apps and runs the servers they live on. I work across the **PERN** and **.NET** stacks on the software side, and manage **Linux-based HPC (High-Performance Computing) Clusterss** on the infrastructure side.
 
-- 🛰️ **HPC Cluster Administrator** @ GreenAi - NASTP, Rawalpindi.
+- 🛰️ **HPC Clusterss Administrator** @ GreenAi - NASTP, Rawalpindi.
 - 🚀 **Chief Technology Officer (CTO) & Co-Founder** @ [Resoviq](https://resoviq.com) - Software & Business Services Agency.
 - 🧠 Interested in **AI/ML workloads, automation and scalable backend systems**.
 - 🎓 BS Software Engineering - NUML, Rawalpindi.
@@ -192,7 +192,7 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 
 <br/><br/>
 
-<i>"Efficient, reliable software -- from the code to the cluster."</i>
+<i>"Efficient, reliable software -- from the code to the Clusters."</i>
 
 </div>
 

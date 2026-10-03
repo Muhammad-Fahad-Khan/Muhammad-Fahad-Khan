@@ -1,0 +1,62 @@
+name: Profile Maintenance & Auto Fix
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+    - cron: '15 2 * * *'
+    - cron: '30 5 * * *'
+    - cron: '45 8 * * *'
+    - cron: '0 11 * * *'
+    - cron: '30 14 * * *'
+    - cron: '45 17 * * *'
+    - cron: '15 20 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  maintain-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 validators
+
+      - name: Configure git
+        run: |
+          git config user.name "GitHub Profile Bot"
+          git config user.email "bot@github.com"
+
+      - name: Validate README links
+        run: python .github/scripts/profile_validator.py || true
+
+      - name: Auto-fix common profile issues
+        run: python .github/scripts/auto_fixer.py || true
+
+      - name: Daily content refresh
+        run: python .github/scripts/daily_update.py || true
+
+      - name: Commit changes if any
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto: profile maintenance and fixes"
+            git push origin main
+          fi

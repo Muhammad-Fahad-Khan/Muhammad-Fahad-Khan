@@ -6,8 +6,28 @@
       "status": 402
     },
     {
+      "url": "https://gym.getresoviq.com/",
+      "status": 0
+    },
+    {
+      "url": "https://resoviq.com",
+      "status": 0
+    },
+    {
+      "url": "https://the-mfk.tech",
+      "status": 0
+    },
+    {
+      "url": "https://the-mfk.tech/",
+      "status": 0
+    },
+    {
       "url": "https://www.linkedin.com/in/muhammad-fahad-khan-mfk",
       "status": 999
+    },
+    {
+      "url": "https://www.resoviq.com/",
+      "status": 0
     }
   ]
 }

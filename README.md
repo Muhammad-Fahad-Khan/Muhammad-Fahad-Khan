@@ -178,6 +178,20 @@ I'm **Muhammad Fahad Khan (MFK)** - a Software Engineer who builds full-stack we
 <sub>Portfolio / showcase site</sub>
 </td>
 </tr>
+
+ <tr>
+<td align="center" width="50%">
+<a href="https://muhammad-fahad-khan.github.io/Animator-Profile-Image-Convertor/" target="_blank">
+<img src="https://image.thum.io/get/width/600/fullpage/wait/12/https://muhammad-fahad-khan.github.io/Animator-Profile-Image-Convertor/?v=1" width="100%" alt="Logo & Profile GIF Studio"/>
+</a>
+<br/><b>🎞️ Logo & Profile GIF Studio</b><br/>
+<sub>Client-side 60 FPS avatar & logo GIF animator</sub>
+</td>
+<td align="center" width="50%">
+<!-- Add your next project here to keep the 2-column grid balanced -->
+</td>
+</tr>
+
 </table>
 
 </div>

@@ -6,8 +6,12 @@
       "status": 402
     },
     {
+      "url": "https://image.thum.io/get/width/1200/fullpage/wait/12/https://the-mfk.tech/?v=2",
+      "status": 0
+    },
+    {
       "url": "https://www.linkedin.com/in/muhammad-fahad-khan-mfk",
-      "status": 999
+      "status": 429
     }
   ]
 }
